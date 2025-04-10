@@ -98,6 +98,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/32a144bd-3883-4c46-b3ef-1d4fc4760b71)
+
 
 ---
 
